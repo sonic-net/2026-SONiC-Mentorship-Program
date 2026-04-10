@@ -3,7 +3,7 @@
 ## This repository has been created for college students who do not have access to the LFX Portal. Following the instructions below will allow students to participate in the SONiC 2026 mentorship program.
 
 ### Please visit the [LFX Mentorship Portal](https://mentorship.lfx.linuxfoundation.org/#projects_all) to view all of the SONiC 2026 Mentorship Programs. If you cannot access the provided link, please follow the instructions below.
-1. Please view the attached PDF files
+1. Please view the attached PDF files above
 2. Review the available programs and select those that best align with your SONiC mentorship goals.
 3. Once you've decided which programs you would like to apply to, email eharrison@linuxfoundation.org
 
